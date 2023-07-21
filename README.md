@@ -21,5 +21,5 @@ Paste the above line in the **Source Control Repositories** section under the **
 
 ## 🤝 Support me on
 GitHub [@Vivekv634](https://github.com/Vivekv634) &nbsp; &middot;&nbsp;
-LinkedIn [@vivek-vaish-bb5803257](https://www.linkedin.com/in/vivek-vaish-bb5803257/) &nbsp; &middot;&nbsp;
+LinkedIn [@vivekv634](https://www.linkedin.com/in/vivekv634/) &nbsp; &middot;&nbsp;
 Instagram [@v.codr](https://www.instagram.com/v.codr/)
